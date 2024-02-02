@@ -43,10 +43,20 @@
 
     <!-- Containers are the most basic layout element in Bootstrap and are required when using our default grid system. Containers are used to contain, pad, and (sometimes) center the content within them.
      -->
+
+
+
+     <!-- CHANGES CAN BE SEEN HERE-->
+
     <div class="container">
       <h2>Lorem ipsum</h2>
       <p>Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Beatae ipsum non deserunt omnis nostrum quaerat inventore sed odio! Modi reprehenderit doloribus inventore itaque voluptate tempora maiores delectus praesentium at libero.</p>
     </div>
+
+
+     <!-- CHANGES CAN BE SEEN HERE-->
+
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/
     bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
@@ -69,6 +79,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   </head>
   <body>
+
+    <!-- CHANGES CAN BE SEEN BELOW-->
+
+
 
   	<!-- START NAVBAR -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -108,6 +122,12 @@
       </div>
     </nav>
     <!-- END NAVBAR -->
+
+
+
+
+    <!-- CHANGES CAN BE SEEN ABOVE-->
+
 
 
     <!-- Containers are the most basic layout element in Bootstrap and are required when using our default grid system. Containers are used to contain, pad, and (sometimes) center the content within them.
@@ -154,6 +174,12 @@
               <a class="nav-link" href="#">Link</a>
             </li>
 
+
+          <!-- CHANGES CAN BE SEEN BELOW-->
+
+
+
+
             <!-- NEW LINKS INSIDE THE NAVBAR -->
             <!-- STARTS HERE -->
             <li class="nav-item">
@@ -166,6 +192,16 @@
               <a class="nav-link" href="#">New_Link_3</a>
             </li>
             <!-- ENDS HERE -->
+
+
+
+
+
+            <!-- CHANGES CAN BE SEEN ABOVE -->
+
+
+
+
             
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -277,12 +313,24 @@
     -->
     <div class="container">
       
+
+    <!-- CHANGES CAN BE SEEN BELOW-->
+
+
+
+
       <!-- A BOOTSTRAP CARD HAS BEEN CREATED -->  
       <!-- STARTS HERE -->
       <div class="card">
 
       </div>
       <!-- ENDS HERE -->
+
+
+
+
+
+    <!-- CHANGES CAN BE SEEN ABOVE-->
 
     </div>
 
@@ -367,6 +415,11 @@
     <!-- Containers are the most basic layout element in Bootstrap and are required when using our default grid system. Containers are used to contain, pad, and (sometimes) center the content within them.
     -->
     <div class="container">
+
+
+    <!-- CHANGES CAN BE SEEN BELOW-->
+
+
       
       <!-- A BOOTSTRAP CARD HAS BEEN CREATED. "mt" means margin-top -->  
       <!-- STARTS HERE -->
@@ -382,6 +435,15 @@
 
       </div>
       <!-- ENDS HERE -->
+
+
+
+
+
+    <!-- CHANGES CAN BE SEEN ABOVE-->
+
+
+
 
     </div>
 
@@ -469,6 +531,13 @@
 
     <div class="container">
 
+
+
+    <!-- CHANGES CAN BE SEEN BELOW-->
+
+
+
+
       <!-- The row class creates a horizontal row that contains columns --> 
       <div class="row">
 
@@ -487,6 +556,16 @@
         <div class="col">4</div>
       </div>
     </div>
+
+
+
+
+
+    <!-- CHANGES CAN BE SEEN ABOVE -->
+
+
+
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/
     bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
@@ -576,12 +655,27 @@
 
         <!-- The col class creates a column with equal width. In this example, there are four columns in each row. --> 
         <div class="col">
+
+
+
+        <!-- CHANGES CAN BE SEEN BELOW-->
+
+
+
+
           <div class="card mt-4">
             <div class="card-header"><h2>Lorem Ipsum</h2></div>
             <div class="card-body">
               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed saepe veritatis laboriosam ea culpa quidem quae facilis adipisci. Repudiandae iure quo nam velit, eveniet id deserunt adipisci ipsa magni quam!</p>
             </div>
           </div>
+
+
+
+
+        <!-- CHANGES CAN BE SEEN ABOVE -->
+
+
         </div>
         <div class="col">
           <div class="card mt-4">
@@ -731,6 +825,16 @@
       <!-- If we indicate 12, it means it extends to all the columns -->
       <h3 class="mt-4 text-success">If we indicate 12, it means it extends to all the columns</h3>
       <div class="row">
+
+
+
+
+      <!-- CHANGES CAN BE SEEN BELOW-->
+
+
+
+
+
         <div class="col-12">
           <div class="card mt-4">
             <div class="card-header"><h2>Lorem Ipsum</h2></div>
@@ -826,6 +930,16 @@
             </div>
           </div>
         </div>
+
+
+
+
+        <!-- CHANGES CAN BE SEEN ABOVE -->
+
+
+
+
+
       </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/
