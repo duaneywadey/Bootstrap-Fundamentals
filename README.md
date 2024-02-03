@@ -1,4 +1,6 @@
 # A step by step guide on how to use Bootstrap
+ - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components. 
+ From: https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)
 
 # INTRO TO BOOTSTRAP
 ## Creating the bootstrap template
